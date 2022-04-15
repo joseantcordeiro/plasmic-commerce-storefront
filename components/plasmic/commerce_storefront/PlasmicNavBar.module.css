@@ -1,0 +1,166 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+.freeBox__eeg77 {
+  flex-direction: row;
+  max-width: 1380px;
+  display: flex;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+  padding: 0px 32px;
+}
+.freeBox__eeg77 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+  min-width: 0;
+  margin-left: calc(0px - 0px);
+  width: calc(100% + 0px);
+}
+.freeBox__eeg77 > :global(.__wab_flex-container) > *,
+.freeBox__eeg77 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__eeg77 > :global(.__wab_flex-container) > picture > img,
+.freeBox__eeg77
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 0px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__eeg77 {
+    padding: 12px 0px 13px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__eeg77 > :global(.__wab_flex-container) {
+    align-content: center;
+    justify-content: center;
+    margin-left: calc(0px - 30px);
+    width: calc(100% + 30px);
+    margin-top: calc(0px - 0px);
+    height: calc(100% + 0px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__eeg77 > :global(.__wab_flex-container) > *,
+  .freeBox__eeg77 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .freeBox__eeg77 > :global(.__wab_flex-container) > picture > img,
+  .freeBox__eeg77
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 30px;
+    margin-top: 0px;
+  }
+}
+.freeBox__uQanK {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+.freeBox__uQanK > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(0px - 43px);
+  width: calc(100% + 43px);
+}
+.freeBox__uQanK > :global(.__wab_flex-container) > *,
+.freeBox__uQanK > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__uQanK > :global(.__wab_flex-container) > picture > img,
+.freeBox__uQanK
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 43px;
+}
+.link___3Rok6 {
+  color: var(--token-VYtke39QqPwy_C);
+  text-transform: capitalize;
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
+.link__jtYwN {
+  color: var(--token-VYtke39QqPwy_C);
+  text-transform: capitalize;
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
+.freeBox___2L07W {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+.link__a6BxU {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: var(--token-VYtke39QqPwy_C);
+  text-transform: lowercase;
+}
+.freeBox__bnpFj {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+}
+.freeBox__bnpFj > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 43px);
+  width: calc(100% + 43px);
+}
+.freeBox__bnpFj > :global(.__wab_flex-container) > *,
+.freeBox__bnpFj > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__bnpFj > :global(.__wab_flex-container) > picture > img,
+.freeBox__bnpFj
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 43px;
+}
+.link___9Zmu4 {
+  color: var(--token-VYtke39QqPwy_C);
+  text-transform: capitalize;
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
+.svg {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+  color: var(--token-VYtke39QqPwy_C);
+  flex-shrink: 0;
+}

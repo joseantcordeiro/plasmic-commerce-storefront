@@ -1,0 +1,304 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700&family=Playfair+Display%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600%3B0%2C700&display=swap");
+
+.plasmic_tokens {
+  --token-hoEDGbmyOZxGT2: #007aff;
+  --plasmic-token-blue: var(--token-hoEDGbmyOZxGT2);
+  --token-9M9tusfzd7-yzs: #333333;
+  --plasmic-token-primary-label: var(--token-9M9tusfzd7-yzs);
+  --token-kF-bdQceWPKo6j: #666666;
+  --plasmic-token-secondary-label: var(--token-kF-bdQceWPKo6j);
+  --token-VYtke39QqPwy_C: #f4fafb;
+  --plasmic-token-light-gray-06: var(--token-VYtke39QqPwy_C);
+  --token-XcL8droyDfKmUe: #ffcc00;
+  --plasmic-token-star-color: var(--token-XcL8droyDfKmUe);
+  --token-ay68Ef24Q9xcuW: 450px;
+  --plasmic-token-height: var(--token-ay68Ef24Q9xcuW);
+  --token-aNKCpOfwV38Rsi: 320px;
+  --plasmic-token-product-height: var(--token-aNKCpOfwV38Rsi);
+  --token--RiWUkLjMIqGe-: 250px;
+  --plasmic-token-instagram-height: var(--token--RiWUkLjMIqGe-);
+  --token-aLVECrA8QvDSKM: 100%;
+  --plasmic-token-insta-width: var(--token-aLVECrA8QvDSKM);
+  --token-zOBGJFJRJTyixU: 1px;
+  --plasmic-token-fil: var(--token-zOBGJFJRJTyixU);
+  --token-MIZSnSJFRUqa06: #000000;
+  --plasmic-token-black: var(--token-MIZSnSJFRUqa06);
+  --token-_BO6JknjF7YXoQ: #ffffff;
+  --plasmic-token-unnamed-style-token-2: var(--token-_BO6JknjF7YXoQ);
+  --token-eNptFkwdGsioeK: #663399;
+  --plasmic-token-color: var(--token-eNptFkwdGsioeK);
+}
+
+.plasmic_default_styles,
+.plasmic_default_styles:where(.global_unnamedGlobalGroupOfVariants_unnamedVariant) {
+  --mixin-CM3IJoQsUpJzZ9_font-family: "Poppins";
+  --mixin-CM3IJoQsUpJzZ9_font-size: 14px;
+  --mixin-CM3IJoQsUpJzZ9_font-style: normal;
+  --mixin-CM3IJoQsUpJzZ9_color: #797979;
+  --mixin-CM3IJoQsUpJzZ9_text-align: left;
+  --mixin-CM3IJoQsUpJzZ9_text-transform: none;
+  --mixin-CM3IJoQsUpJzZ9_white-space: pre-wrap;
+  --mixin-CM3IJoQsUpJzZ9_user-select: text;
+  --mixin-CM3IJoQsUpJzZ9_text-decoration-line: none;
+  --mixin-CM3IJoQsUpJzZ9_text-overflow: clip;
+  --mixin-CM3IJoQsUpJzZ9_line-height: 1.6;
+  --mixin-SRSogtEHWqFQsn_font-family: "Playfair Display";
+  --mixin-SRSogtEHWqFQsn_font-weight: 400;
+  --mixin-SRSogtEHWqFQsn_font-size: 64px;
+  --mixin-SRSogtEHWqFQsn_color: var(--token-VYtke39QqPwy_C);
+  --mixin-SRSogtEHWqFQsn_line-height: 1.1;
+  --mixin-1J-dSnqvVpmmIm_color: #333333;
+  --mixin-1J-dSnqvVpmmIm_font-family: "Playfair Display";
+  --mixin-1J-dSnqvVpmmIm_font-weight: 400;
+  --mixin-1J-dSnqvVpmmIm_font-size: 34px;
+  --mixin-1J-dSnqvVpmmIm_line-height: 1.1;
+  --mixin-R4_tUTH8GTzvMa_color: var(--token-9M9tusfzd7-yzs);
+  --mixin-R4_tUTH8GTzvMa_font-family: "Poppins";
+  --mixin-R4_tUTH8GTzvMa_font-weight: 500;
+  --mixin-R4_tUTH8GTzvMa_font-size: 28px;
+  --mixin-R4_tUTH8GTzvMa_line-height: 1.3;
+  --mixin-oWiuWGtbnhsOnO_color: var(--token-9M9tusfzd7-yzs);
+  --mixin-oWiuWGtbnhsOnO_font-family: "Poppins";
+  --mixin-oWiuWGtbnhsOnO_font-weight: 600;
+  --mixin-oWiuWGtbnhsOnO_font-size: 18px;
+  --mixin-O0M9GMRdC1ZTSY_color: var(--token-9M9tusfzd7-yzs);
+  --mixin-O0M9GMRdC1ZTSY_font-family: "Poppins";
+  --mixin-O0M9GMRdC1ZTSY_font-weight: 500;
+  --mixin-O0M9GMRdC1ZTSY_font-size: 18px;
+  --mixin-qVKn_eSlO1xver_color: var(--token-MIZSnSJFRUqa06);
+  --mixin-qVKn_eSlO1xver_font-size: 16px;
+  --mixin-qVKn_eSlO1xver_font-family: "Poppins";
+}
+
+.plasmic_mixins,
+.plasmic_mixins:where(.global_unnamedGlobalGroupOfVariants_unnamedVariant) {
+  --mixin-Z-LZs9j66atjXU_box-shadow: 0px 0px 0px 3px #007aff80;
+  --plasmic-mixin-focus-shadow_box-shadow: var(
+    --mixin-Z-LZs9j66atjXU_box-shadow
+  );
+}
+
+:where(.all) {
+  display: block;
+  white-space: inherit;
+  grid-row: auto;
+  grid-column: auto;
+  position: relative;
+  background: none;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  box-shadow: none;
+  box-sizing: border-box;
+  text-decoration-line: none;
+  margin: 0;
+  border-width: 0px;
+}
+:where(.img) {
+  display: inline-block;
+}
+:where(.li) {
+  display: list-item;
+}
+:where(.span) {
+  display: inline;
+  position: static;
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+}
+:where(.input) {
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  background-image: linear-gradient(#ffffff, #ffffff);
+  padding: 2px;
+  border: 1px solid lightgray;
+}
+:where(.textarea) {
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  padding: 2px;
+  border: 1px solid lightgray;
+}
+:where(.button) {
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  background-image: none;
+  align-items: flex-start;
+  text-align: center;
+  padding: 2px 6px;
+  border: 1px solid lightgray;
+}
+:where(.code) {
+  font-family: inherit;
+  line-height: inherit;
+}
+:where(.pre) {
+  font-family: inherit;
+  line-height: inherit;
+}
+:where(.p) {
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+}
+:where(.h1) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.h2) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.h3) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.h4) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.h5) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.h6) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.address) {
+  font-style: inherit;
+}
+:where(.a) {
+  color: inherit;
+}
+:where(.ol) {
+  list-style-type: none;
+  padding: 0;
+}
+:where(.ul) {
+  list-style-type: none;
+  padding: 0;
+}
+:where(.select) {
+  padding: 2px 6px;
+}
+.plasmic_default__component_wrapper {
+  display: grid;
+}
+.plasmic_default__inline {
+  display: inline;
+}
+.plasmic_page_wrapper {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  align-items: stretch;
+  align-self: start;
+}
+.plasmic_page_wrapper > * {
+  height: auto !important;
+}
+.root_reset {
+  font-family: var(--mixin-CM3IJoQsUpJzZ9_font-family);
+  font-size: var(--mixin-CM3IJoQsUpJzZ9_font-size);
+  font-style: var(--mixin-CM3IJoQsUpJzZ9_font-style);
+  color: var(--mixin-CM3IJoQsUpJzZ9_color);
+  text-align: var(--mixin-CM3IJoQsUpJzZ9_text-align);
+  text-transform: var(--mixin-CM3IJoQsUpJzZ9_text-transform);
+  line-height: var(--mixin-CM3IJoQsUpJzZ9_line-height);
+  white-space: var(--mixin-CM3IJoQsUpJzZ9_white-space);
+}
+
+:where(.root_reset .plasmic_default__a),
+:where(.root_reset .a),
+:where(.root_reset.plasmic_default__a) {
+}
+
+:where(.root_reset .plasmic_default__h1),
+:where(.root_reset .h1),
+:where(.root_reset.plasmic_default__h1) {
+  font-family: var(--mixin-SRSogtEHWqFQsn_font-family);
+  font-weight: var(--mixin-SRSogtEHWqFQsn_font-weight);
+  font-size: var(--mixin-SRSogtEHWqFQsn_font-size);
+  color: var(--mixin-SRSogtEHWqFQsn_color);
+  line-height: var(--mixin-SRSogtEHWqFQsn_line-height);
+}
+
+:where(.root_reset .plasmic_default__h2),
+:where(.root_reset .h2),
+:where(.root_reset.plasmic_default__h2) {
+  color: var(--mixin-1J-dSnqvVpmmIm_color);
+  font-family: var(--mixin-1J-dSnqvVpmmIm_font-family);
+  font-weight: var(--mixin-1J-dSnqvVpmmIm_font-weight);
+  font-size: var(--mixin-1J-dSnqvVpmmIm_font-size);
+  line-height: var(--mixin-1J-dSnqvVpmmIm_line-height);
+}
+
+:where(.root_reset .plasmic_default__h3),
+:where(.root_reset .h3),
+:where(.root_reset.plasmic_default__h3) {
+  color: var(--mixin-R4_tUTH8GTzvMa_color);
+  font-family: var(--mixin-R4_tUTH8GTzvMa_font-family);
+  font-weight: var(--mixin-R4_tUTH8GTzvMa_font-weight);
+  font-size: var(--mixin-R4_tUTH8GTzvMa_font-size);
+  line-height: var(--mixin-R4_tUTH8GTzvMa_line-height);
+}
+
+:where(.root_reset .plasmic_default__h5),
+:where(.root_reset .h5),
+:where(.root_reset.plasmic_default__h5) {
+  color: var(--mixin-oWiuWGtbnhsOnO_color);
+  font-family: var(--mixin-oWiuWGtbnhsOnO_font-family);
+  font-weight: var(--mixin-oWiuWGtbnhsOnO_font-weight);
+  font-size: var(--mixin-oWiuWGtbnhsOnO_font-size);
+}
+
+:where(.root_reset .plasmic_default__h4),
+:where(.root_reset .h4),
+:where(.root_reset.plasmic_default__h4) {
+  color: var(--mixin-O0M9GMRdC1ZTSY_color);
+  font-family: var(--mixin-O0M9GMRdC1ZTSY_font-family);
+  font-weight: var(--mixin-O0M9GMRdC1ZTSY_font-weight);
+  font-size: var(--mixin-O0M9GMRdC1ZTSY_font-size);
+}
+
+:where(.root_reset .plasmic_default__h6),
+:where(.root_reset .h6),
+:where(.root_reset.plasmic_default__h6) {
+  color: var(--mixin-qVKn_eSlO1xver_color);
+  font-size: var(--mixin-qVKn_eSlO1xver_font-size);
+  font-family: var(--mixin-qVKn_eSlO1xver_font-family);
+}
+
+:where(.root_reset .plasmic_default__pre),
+:where(.root_reset .pre),
+:where(.root_reset.plasmic_default__pre) {
+}
+
+:where(.root_reset .plasmic_default__blockquote),
+:where(.root_reset .blockquote),
+:where(.root_reset.plasmic_default__blockquote) {
+}
